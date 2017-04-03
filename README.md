@@ -1,2 +1,2 @@
 # androidThingsDemo
-Android Things Developer Preview Introductory App
+Android things deveoper preview demo app created to demonstrate GPIO and Serial communication
